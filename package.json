@@ -10,8 +10,8 @@
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/"
   },
-  "author": "Niels Bosman",
-  "license": "ISC",
+  "author": "winplaybox",
+  "license": "MIT",
   "keywords": [
     "react-component",
     "react-native",
