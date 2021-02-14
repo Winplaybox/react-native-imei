@@ -5,7 +5,7 @@
   "main": "imei.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/SimenCodes/react-native-imei.git"
+    "url": "https://github.com/Winplaybox/react-native-imei.git"
   },
   "keywords": [
     "react-component",
