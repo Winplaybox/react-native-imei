@@ -7,10 +7,20 @@
     "type": "git",
     "url": "https://github.com/Winplaybox/react-native-imei.git"
   },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  },
+  "author": "Niels Bosman",
+  "license": "ISC",
   "keywords": [
     "react-component",
     "react-native",
     "android",
-    "device"
-  ]
+    "device",
+    "imei"
+  ],
+  "bugs": {
+    "url": "https://github.com/Winplaybox/react-native-imei/issues"
+  },
+  "homepage": "https://github.com/Winplaybox/react-native-imei#react-native-imei"
 }
