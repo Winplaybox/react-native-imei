@@ -5,10 +5,10 @@
   "main": "imei.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Winplaybox/react-native-imei.git"
+    "url": "git@github.com:Winplaybox/react-native-imei.git"
   },
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com/"
+    "registry":"https://npm.pkg.github.com"
   },
   "author": "winplaybox",
   "license": "MIT",
